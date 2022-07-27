@@ -4,6 +4,9 @@
 :root{
 
 }
+hr{
+    margin: 3rem 0rem;
+}
 body{
     font-family: 'Montserrat', sans-serif;
 }
