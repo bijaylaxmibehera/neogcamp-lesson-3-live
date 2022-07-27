@@ -5,6 +5,7 @@
    --primary-color: #0ea5e9;
    --secondary-color:#38bdf8;
    --dark-gray: #374151;
+   --off-white:#d1d5db;
 }
 hr{
     margin: 3rem 0rem;
@@ -79,4 +80,14 @@ body{
 }
 .hero .hero-heading .heading-inverted{
     color: var(--primary-color);
+}
+/*section*/
+.section{
+    padding: 2rem;
+}
+.section h1{
+    text-align: center;
+}
+.ow{
+    background-color: var(--off-white);
 }
